@@ -1,4 +1,4 @@
-# CaseStudy_on_StartupFunding
+# CaseStudy_on_StartupFunding : Numpy, Pandas, MatplotLib used
 
 This dataset included funding information of the Indian startups from January 2015 to August 2017.
 
