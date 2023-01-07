@@ -25,11 +25,12 @@ Remarks - Other information, if any.
 
 #Insights -
 
-1 Trend of the frequency of investment from 2015 – 2020
+1 Trend of the frequency of investment from 2015 – 2017
 
 2 Top 10 cities with the most number of startups
 
 3 Top 10 cities with the most amount of funding
+
 4 Percentage Distribution of 4 major funding types
 
 5 Top 5 industries that recieves most funds
@@ -39,7 +40,3 @@ Remarks - Other information, if any.
 7 Top 10 startups with the most funding rounds
  
 8 Top 5 most frequent investors
-
-9 Trend of the 4 major types of funding over years 2015 - 2020
-
-10 Trend of funding status of the top 5 most funded startups
